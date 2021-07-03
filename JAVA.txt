@@ -1,0 +1,5 @@
+public class.java
+	public static void main({
+		string[]agrs})\\不可移动的字符串参数
+			system point("hello world!")
+				
